@@ -1,4 +1,4 @@
-
+package com.IBS.entityclasses;
 public class ServiceProviderManagement {
 
 	/**
