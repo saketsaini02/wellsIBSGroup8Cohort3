@@ -10,7 +10,7 @@
 	 Integrated Banking System - New User Registration Page. 
 		<br><br/>
 		<br>
-			<label> Enter Customer ID</label>
+			<label> Enter Customer ID:</label>
 			<input type="text" name ="Customer ID"/>
 		<br/>
 
