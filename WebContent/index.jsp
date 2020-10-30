@@ -8,7 +8,7 @@
 </head>
 <body>
 		<br><br/>
-			Welcome to Integrated Banking System. Thank you for visiting for us. 
+			Welcome to Integrated Banking System.Thank you for visiting for us. 
 		<br><br/>	
 		<br>
 			<label> Enter Customer ID</label>
