@@ -11,11 +11,11 @@
 			Welcome to Integrated Banking System. Thank you for visiting for us. 
 		<br><br/>	
 		<br>
-			<label> Enter Customer ID</label>
+			<label> Enter Customer ID:</label>
 			<input type="text" name ="Customer ID"/>
 		<br/>		
 		<br>
-			<label> Enter Password</label>	
+			<label> Enter Password:</label>	
 			<input type ="password" name="Password"/>
 		<br/>		
 		<br>
