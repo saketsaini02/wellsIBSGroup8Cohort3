@@ -42,6 +42,5 @@ public String getOperation() {
 public void setOperation(String operation) {
 	Operation = operation;
 }
-
 		
 }
