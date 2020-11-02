@@ -14,5 +14,10 @@
 			<label> Enter Customer ID:</label>
 			<input type="text" name ="Customer ID"/>
 		<br/>
+
+			<br>
+			<label> Enter Card No:</label>
+			<input type="text" name ="Customer ID"/>
+		<br/>
 </body>
 </html>
