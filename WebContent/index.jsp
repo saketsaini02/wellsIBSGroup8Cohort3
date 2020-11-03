@@ -8,10 +8,9 @@
 </head>
 <body>
 		<br><br/>
-
 			Welcome to Integrated Banking System.Thank you for banking with us. 
-
 		<br><br/>	
+		<form action="Login" method="post">
 		<br>
 			<label> Enter Customer ID</label>
 			<input type="text" name ="Customer ID"/>
@@ -31,6 +30,7 @@
 		<br><br/>
 			<input type ="submit" value ="Login"/>
 		<br><br/>
+	</form>
 		<hr/>
 			<a href=ForgotPassword.jsp>Forgot Password</a>
 		<hr/>

@@ -13,11 +13,25 @@
 		<br>
 			<label> Enter Customer ID:</label>
 			<input type="text" name ="Customer ID"/>
+		<br/>		
 		<br/>
-
 			<br>
-			<label> Enter Card No:</label>
-			<input type="text" name ="Customer ID"/>
+			<label> Enter Date of Birth</label>
+			<input type="text" name ="Date Of Birth"/>
 		<br/>
+		<br/>
+			<br>
+			<label>Enter Mobile #</label>
+			<input type="text" name ="Mobile No"/>
+		<br/>
+		<br/>
+			<br>
+			<label>Enter One Time Password</label>
+			<input type="text" name ="OTP"/>
+		<br/>
+		<br/>
+			<br>		
+			<input type ="submit" value ="Submit"/>
+		<br/>		
 </body>
 </html>
