@@ -10,13 +10,12 @@
 	 What you want to do today :) 
 		<br><br/>
 			<tr>
-				<td><label for="Accounts">Perfom Operation</label></td>
+				<td><label for="Request Statement">Request Statement</label></td>
 				<td><select name="Accounts">
 						<option value="Balance Check">Balance Check</option>
 						<option value="Request Mini Statement">Request Mini Statement</option>
 						<option value="Request Periodic Statement">Request Periodic Statement</option>
-						<option value="Fund Transfer">Fund Transfer</option>
-						<option value="Pay Utility">Pay Utility</option>
+						<option value="Enter Loan Number">Enter Loan Number</option>
 						
 						
 				</select></td> 
