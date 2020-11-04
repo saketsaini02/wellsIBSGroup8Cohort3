@@ -14,7 +14,7 @@
 		<br><br/>	
 		
 		<hr/>
-			<a href=><u>Return to HomePage</u></a>
+			 <a href="HomePage.jsp">Home</a>
 		<hr/>	
 		
 		<br>
