@@ -4,6 +4,7 @@
 <body>
   <a href="HomePage.jsp">Home</a>
       <br></br>
+      <a href="${pageContext.request.contextPath}/OpenAccount.jsp" >Open Account</a>
       <a href="${pageContext.request.contextPath}/RecurringDeposit.jsp"> Recurring Deposit</a>
       <a href="${pageContext.request.contextPath}/FixedDeposit.jsp" >Fixed Deposit</a>
       <a href="${pageContext.request.contextPath}/SavingsAccount.jsp" >Savings Account</a>
